@@ -1,0 +1,10 @@
+test_add_contact:
+  test_add_contact_001:
+    name: "wujingjing"
+    phone: "18888888888"
+  test_add_contact_002:
+    name: "fuyue"
+    phone: "17777777777"
+  test_add_contact_003:
+    name: "wuchunhua"
+    phone: "16666666666"
